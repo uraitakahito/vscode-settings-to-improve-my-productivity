@@ -10,7 +10,7 @@ Welcome to vscode settings to improve my productivity's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
+   extensions
 
 Indices and tables
 ==================
