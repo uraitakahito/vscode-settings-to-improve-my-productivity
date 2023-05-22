@@ -12,9 +12,3 @@ Welcome to vscode settings to improve my productivity's documentation!
 
    extensions
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`

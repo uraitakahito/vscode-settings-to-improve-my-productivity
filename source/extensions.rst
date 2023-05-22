@@ -21,9 +21,3 @@ This extension is an extension that can change the icon of the folder and the fi
    :caption: Contents:
 
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
